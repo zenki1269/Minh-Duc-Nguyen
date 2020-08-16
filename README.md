@@ -1,4 +1,8 @@
-<h1 style="color:red;">Hello Welcome to My Profile</h1>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="color:blue;">Welcome to my Profile</h1>
 <html>
 <body>
 
