@@ -1,10 +1,10 @@
 
 
 <h2>My info</h2>
-<img src=(https://user-images.githubusercontent.com/68837437/90334562-dc1a5300-e011-11ea-994c-3919729f83bf.jpg)" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/68837437/90334562-dc1a5300-e011-11ea-994c-3919729f83bf.jpg" width="200" height="300"/>
 
 
-<p>My name is Minh Duc Nguyen. Im a 1st year student studying Bachelor of I.T at RMIT University.<p>
+<p>My name is Minh Duc Nguyen. Im a 2nd year student studying Bachelor of I.T at RMIT University.<p>
 <p>My student number is s3766338 and my email address is s3766338@student.rmit.edu.au <p>
 I'm a international student from Vietnam. I've been studying in Australia for 6 years and I enjoy it a lot. My highest education I have done so far is highschool. I can speak two languages:
 Vietnamese and English. I can describe myself as a sporty person since I could play soccer, basketball, badminton and more but my favorite one is badminton. My hobbies are nothing too special
@@ -23,6 +23,9 @@ find my true passionate that I've been looking for a long time.<p>
 
 
 <img src="https://user-images.githubusercontent.com/68837437/90333848-842d1d80-e00c-11ea-8bbe-732e509676f3.png" width="250" height="250"/>
+<img src="https://user-images.githubusercontent.com/68837437/90333850-868f7780-e00c-11ea-92bd-18980d3ccb75.png" width="250" height="250"/>
+<img src="https://user-images.githubusercontent.com/68837437/90333851-87c0a480-e00c-11ea-9a75-85cb0ce83cfe.png" width="250" height="250"/>
+<img src="https://user-images.githubusercontent.com/68837437/90333852-88f1d180-e00c-11ea-962c-e02d642d9c0b.png" width="270" height="250"/>
 
 
 
