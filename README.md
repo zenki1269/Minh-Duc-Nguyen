@@ -1,5 +1,3 @@
-<html>
-<body>
 
 <p>My name is Minh Duc Nguyen. Im a 1st year student studying Bachelor of I.T at RMIT University.<p>
 <p>My student number is s3766338 and my email address is s3766338@student.rmit.edu.au <p>
