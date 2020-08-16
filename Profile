@@ -5,8 +5,8 @@
   <meta charset="utf-8">
 
   <title>My Student Website</title>
-  <meta name="description" content="My Student Website">
-  <meta name="author" content="E07593">
+  <meta name="description" content="This is my profile">
+  <meta name="author" content="Minh Duc Nguyen">
 
   <link rel="stylesheet" href="css/styles.css?v=1.0">
 
