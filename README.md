@@ -1,7 +1,6 @@
 
 
 <h2>My info</h2>
-<h1 style="background-color:Tomato;">Tomato</h1>
 <p>My name is Minh Duc Nguyen. Im a 1st year student studying Bachelor of I.T at RMIT University.<p>
 <p>My student number is s3766338 and my email address is s3766338@student.rmit.edu.au <p>
 I'm a international student from Vietnam. I've been studying in Australia for 6 years and I enjoy it a lot. My highest education I have done so far is highschool. I can speak two languages:
