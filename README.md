@@ -22,12 +22,12 @@ find my true passionate that I've been looking for a long time.<p>
 <h2>My Ideal Job</h2>
 
 
-<img src="https://user-images.githubusercontent.com/68837437/90333848-842d1d80-e00c-11ea-8bbe-732e509676f3.png" width="250" height="250"/>
-<img src="https://user-images.githubusercontent.com/68837437/90333850-868f7780-e00c-11ea-92bd-18980d3ccb75.png" width="250" height="250"/>
-<img src="https://user-images.githubusercontent.com/68837437/90333851-87c0a480-e00c-11ea-9a75-85cb0ce83cfe.png" width="250" height="250"/>
-<img src="https://user-images.githubusercontent.com/68837437/90333852-88f1d180-e00c-11ea-962c-e02d642d9c0b.png" width="270" height="250"/>
+<img src="https://user-images.githubusercontent.com/68837437/90333848-842d1d80-e00c-11ea-8bbe-732e509676f3.png" width="300" height="250"/>
+<img src="https://user-images.githubusercontent.com/68837437/90333850-868f7780-e00c-11ea-92bd-18980d3ccb75.png" width="300" height="250"/>
+<img src="https://user-images.githubusercontent.com/68837437/90333851-87c0a480-e00c-11ea-9a75-85cb0ce83cfe.png" width="300" height="250"/>
+<img src="https://user-images.githubusercontent.com/68837437/90333852-88f1d180-e00c-11ea-962c-e02d642d9c0b.png" width="300" height="250"/>
 
 
 
-<p> My Ideal Job will be the job that I'd love to work in that field 
+<p> My Ideal Job will be the job that I'd love to work in that field. In my mind right now, I don't know the exact ideal job that I'm looking for but I'd love to work as a web developer for now. The job in the advertisement in Seek seem to the one that fit my expectations the most. 
 </html>
