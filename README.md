@@ -31,7 +31,12 @@ find my true passionate that I've been looking for a long time.<p>
 
 <p> My Ideal Job will be the job that I'd love to work in that field. In my mind right now, I don't know the exact ideal job that I'm looking for but I'd love to work as a web developer for now. The job in the advertisement in Seek seem to the one that fit my expectations the most. It's a company named "Castle Jackson" located in Melbourne CBD so it would be easy to get to work. The income of this full time job is between about $70,000 to $84,999 per annum. This role came through my mind because I found this role is quite interesting and with this role I could develope skills in making websites for the company. Even though this job is going to be difficult but I'd like to learn things on the way to improve my skills. This job appeal to me because it requires a lot of technique that will be helpful for my pathway. With this job I could go oversea to do the project so it would be a good experience <p>
 
+
+
 <p> In a company, people required to do their job so is "Castle Jackson" has a certain expectation is us, the programmer. The company expected us to have a minimum 2 years in Web Development experience and a year in Systems adminstration. Have a good level of understand and be able to work effectively in a team also an importation requirement that they have given.Have some SEO or Graphic Design is a good one for people to get into this job but that isn't neccessary so it would be on the job training. Be an independence in problem solving and have a high skill in team management.
   
-<p>  
+
+
+
+<p>At the moment I don't have any skills or experiences to do this job I just have learnt Java and C++ so I'm still developing my skills but I'm on my way to reach my goals. It's hard to learn new things just by theory but also need hand on to practice more. To learn new things I'll need to learn a lot from my colleague and ask them to help me if I have anyttroubles
 </html>
