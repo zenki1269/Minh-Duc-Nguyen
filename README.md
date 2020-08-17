@@ -37,6 +37,5 @@ find my true passionate that I've been looking for a long time.<p>
   
 
 
-
-<p>At the moment I don't have any skills or experiences to do this job I just have learnt Java and C++ so I'm still developing my skills but I'm on my way to reach my goals. It's hard to learn new things just by theory but also need hand on to practice more. To learn new things I'll need to learn a lot from my colleague and ask them to help me if I have anyttroubles
+<p>At the moment I don't have any skills or experiences to do this job I just have learnt Java and C++ so I'm still developing my skills but I'm on my way to reach my goals. It's hard to learn new things just by theory but also need hand on to practice more. To learn new things I'll need to learn a lot from my colleague and ask them to help me if I have any troubles therefore I could keep learning and makes thing better. I could use my communication skills so it shouldn't be a big problem. But the way I prefer to learn is hands on doing things so if I practice more my skills will be improve. With the qualification that they need I'll do more courses to achieve it and do work experiences in others companies to gain more experiences in this specific field.
 </html>
