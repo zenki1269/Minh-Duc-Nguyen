@@ -27,7 +27,7 @@ find my true passionate that I've been looking for a long time.<p>
 <img src="https://user-images.githubusercontent.com/68837437/90333851-87c0a480-e00c-11ea-9a75-85cb0ce83cfe.png" width="300" height="250"/>
 <img src="https://user-images.githubusercontent.com/68837437/90333852-88f1d180-e00c-11ea-962c-e02d642d9c0b.png" width="300" height="250"/>
 
+<a href="https://www.seek.com.au/job/50382707?type=promoted#searchRequestToken=f9d5a2a7-3ac4-44a8-beac-58491caebbb1">Link</a>
 
-
-<p> My Ideal Job will be the job that I'd love to work in that field. In my mind right now, I don't know the exact ideal job that I'm looking for but I'd love to work as a web developer for now. The job in the advertisement in Seek seem to the one that fit my expectations the most. 
+<p> My Ideal Job will be the job that I'd love to work in that field. In my mind right now, I don't know the exact ideal job that I'm looking for but I'd love to work as a web developer for now. The job in the advertisement in Seek seem to the one that fit my expectations the most. It's a company named "Castle Jackson" located in Melbourne CBD so it would be easy to get to work. The income of this full time job is between about $70,000 to $84,999 per annum. This role came through my mind because I found this role is quite interesting and with this role I could improve my development skills in making websites for the company. Even though 
 </html>
