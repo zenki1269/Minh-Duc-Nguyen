@@ -40,11 +40,11 @@ find my true passionate that I've been looking for a long time.<p>
 <p>At the moment I don't have any skills or experiences to do this job I just have learnt Java and C++ so I'm still developing my skills but I'm on my way to reach my goals. It's hard to learn new things just by theory but also need hand on to practice more. To learn new things I'll need to learn a lot from my colleague and ask them to help me if I have any troubles therefore I could keep learning and makes thing better. I could use my communication skills so it shouldn't be a big problem. But the way I prefer to learn is hands on doing things so if I practice more my skills will be improve. With the qualification that they need I'll do more courses to achieve it and do work experiences in others companies to gain more experiences in this specific field.<p>
 
 <h2>Personal Profile</h2>
-<a href="https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.4,2.8,3.8,3.9,3.4#_V">Big Five Personality Test Result</a>
+<p> <a href="https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.4,2.8,3.8,3.9,3.4#_V">Big Five Personality Test Result</a> <p>
 
-<a href="https://www.16personalities.com/profile">16personalities Result</a>
+<p> <a href="https://www.16personalities.com/profile">16personalities Result</a> <p>
 
-<a href="https://personalitymax.com/report/?pt=47-47-47-32&mi=30-37-63-93-77-67-47-73&ls=62-54-54&bh=43&name_key=5c5554b8bb">PersonalityMax Result</a>
+<p> <a href="https://personalitymax.com/report/?pt=47-47-47-32&mi=30-37-63-93-77-67-47-73&ls=62-54-54&bh=43&name_key=5c5554b8bb">PersonalityMax Result</a> <p>
 
 <p>It's important for the employers to understand their employees so these test were made to test their ability. Those tests have showed me some of the results that I haven't expected. I didn't expect to be an extrovert since I'm kind of a mix between extrovert and introvert so I'll call myself as an ambivert. I've never those tests like this before so it make me know better about myself. I think that those tests were made so people could have a deeper understand about their personalities not only for the job but for their life. So thanks to this test I could see my strength and weakness area and basing on that I could promote my abilities and try to overcome my weakness. <p>
 
