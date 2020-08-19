@@ -53,7 +53,7 @@ find my true passionate that I've been looking for a long time.<p>
 The results of these test is very detailed. Those test could help me find the way to improve myself so I could put my effort into team's work. Everyone single one in my team will have their own personality so those tests that I have taken shouldn't be the matter to how I put my efforts through the work. As a team we need to listen to other's opinions and from that we could learn a lot. Those results are just one factor, others are basing on our ability so it's the most important one. In a team, we need to understand what requirements we need to follow to reach the highest outcome that's the most important one. Everyone test will be different so we could support each others, since my tests came back as I'm a creative person so it's important to have a logical thinking person in a team so we could assist others.
 
 
-It's very important when picking teammate for a project because they will affect our outcome. So for me I'll find a teammate 
+It's very important when picking teammate for a project because they will affect our outcome. So for me I'll find a teammate it takes a lot of factors and understandable between teammate in a group
 
 
 
