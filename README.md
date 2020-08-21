@@ -7,7 +7,7 @@
 <p>My name is Minh Duc Nguyen. Im a 1st year student studying Bachelor of I.T at RMIT University.
 <p>My student number is s3766338 and my email address is s3766338@student.rmit.edu.au. I'm a international student from Vietnam. I've been studying in Australia for 6 years and I enjoy it a lot. My highest education I have done so far is highschool. I can speak two languages:
 Vietnamese and English. I can describe myself as a sporty person since I could play soccer, basketball, badminton and more but my favorite one is badminton. My hobbies are nothing too special
-only playing badminton twice a week ( used to before Covid-19 ), hanging out with friends and playing games.</p>
+only playing badminton twice a week ( used to before Covid-19 ), hanging out with friends and playing games.
 
 <h2>Interest in I.T</h2>
 <p> I.T is big major fields with minor fields in it but what dragged me into I.T is the A.I from scientific movies that I have watched before, when I watched it made me say "Wow"
@@ -59,7 +59,7 @@ find my true passionate that I've been looking for a long time.
  <p> This application's main target audience that we're looking for to be collaboration with is universities in Australia for now and if it's successful we could open it in worldwide Now people know that A.I is the future and we have applied A.I to many things like vending machine, delivering or they even tried it for Uber. This project will be useful because basing on the statistics there're many students want to cheat during the exams in the university. Unfortunaly most cheated students are international students. This project could bring a big win for the university in Australia and university around the world because it will decrease the number of students cheating using smartphones and smart watches. Making the exams fair are the most important thing that the university is heading to so this application will be helpful.
 
 
-<p> It's very simple for the university to keep track of their students and make sure everyone taking their exams seriously. Modern technology is part of our modern lifestyle now and people hard to live without it. With this A.I technology we will use facial (eyes) expression so we could track any movement that the students made and read their actions if they try to cheat then A.I will send the data through the camera and save it in the database so administrator could run through the data and process the potential cheaters. Students scared that they will get caught so that's why they will do everything to cheat without getting caught so we have made a data base. This method won't cost us a lot of time only the cost of getting program to required A.I to work so it's quite expensive but doesn't mean university can't handle them. The most unique features of this system is that the university don't need to do anything beside setting up the system and let A.I do their job. A.I is advanced technology so machine learning can do more then we could imagine. We will use DataRobot to solve out the number and make unique profiles since there're many students enrolled in the university. <p>
+<p> It's very simple for the university to keep track of their students and make sure everyone taking their exams seriously. Modern technology is part of our modern lifestyle now and people hard to live without it. With this A.I technology we will use facial (eyes) expression so we could track any movement that the students made and read their actions if they try to cheat then A.I will send the data through the camera and save it in the database so administrator could run through the data and process the potential cheaters. Students scared that they will get caught so that's why they will do everything to cheat without getting caught so we have made a data base. This method won't cost us a lot of time only the cost of getting program to required A.I to work so it's quite expensive but doesn't mean university can't handle them. The most unique features of this system is that the university don't need to do anything beside setting up the system and let A.I do their job. A.I is advanced technology so machine learning can do more then we could imagine. We will use DataRobot to solve out the number and make unique profiles since there're many students enrolled in the university.
 
 
 
@@ -67,12 +67,25 @@ find my true passionate that I've been looking for a long time.
 <p>To build this application we need to apply some softwares to make it comes true.  Everyone know the common programming langagues like : Java, Python, C++ so we'll use Python to create our A.I because Python seem to be the perfect programming language for this with its unparalleled community support and pre-built libraries (like NumPy, Pandas, Pybrain, and SciPy) that help expedite AI development. There're a lot of programmers in the university so it wouldn't be a problem because they could give us a hand to improve if our product isn't what they expected so we'll improve it with casual updates path.
 
 
-<p> To make the project come true we need those skills above combining with "Datarobot" database with face recognition will push the platform to reach their highest productivity and to achieve the best outcome we could. Datarobot is a perfect platform to store our data so we could track students if they cheat again because they will have profile in the database. We need high understanding level of Python language so we can make it run smoothly and it's the most important requirement <p>
+<p> To make the project come true we need those skills above combining with "Datarobot" database with face recognition will push the platform to reach their highest productivity and to achieve the best outcome we could. Datarobot is a perfect platform to store our data so we could track students if they cheat again because they will have profile in the database. We need high understanding level of Python language so we can make it run smoothly and it's the most important requirement
 
 <h2> References <h2>
   1, Ideal Job
+  Seek:
+12 Aug 2020, Web Developer/Systems Administrator-Castle Jackson Australia, viewed 12 August 2020 <https://www.seek.com.au/job/50382707?type=promoted#searchRequestToken=f9d5a2a7-3ac4-44a8-beac-58491caebbb1>
+  
+  2, Myer-Briggs Type Indicator(MBTI) test result:
+  16Personalities n.d, Minh Duc Nguyen, viewed 18 August 2020, <https://www.16personalities.com/profiles/104ae4f23dccc> .
+  
+  3. Learning style test result:
+personalitymax 2020, Minh Duc Nguyen's Personality Max Report, viewed 18 August 2020, <https://personalitymax.com/report/?pt=47-47-47-32&mi=30-37-63-93-77-67-47-73&ls=62-54-54&bh=43&name_key=5c5554b8bb> .
+
+ 4, Face Recognition
+Peter Drahoš, 2011, viewed 15 Aug 2020, <https://www.innovatrics.com/face-recognition-solutions/>.
+ 
+ 5, Data Robot
+Jeremy Achin, Tom de Godoy, 2012, viewed 15 Aug 2020, <https://www.datarobot.com/platform/>.
  
 
 
 </html>
-https://www.innovatrics.com/face-recognition-solutions/
