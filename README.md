@@ -67,7 +67,7 @@ find my true passionate that I've been looking for a long time.
 <p>To build this application we need to apply some softwares to make it comes true.  Everyone know the common programming langagues like : Java, Python, C++ so we'll use Python to create our A.I because Python seem to be the perfect programming language for this with its unparalleled community support and pre-built libraries (like NumPy, Pandas, Pybrain, and SciPy) that help expedite AI development. There're a lot of programmers in the university so it wouldn't be a problem because they could give us a hand to improve if our product isn't what they expected so we'll improve it with casual updates path.
 
 
-<p> To make the project come true we need those skills above combining with "Datarobot" database with face recognition will push the platform to reach their highest productivity and to achieve the best outcome we could. Datarobot is a perfect platform to store our data so we could track students if they cheat again because they will have profile in the database. We need high understanding level of Python language so we can make it run smoothly and it's the most important requirement
+<p> To make the project come true we need those skills above combining with "Datarobot" database with face recognition will push the platform to reach their highest productivity and to achieve the best outcome we could. Datarobot is a perfect platform to store our data so we could track students if they cheat again because they will have profile in the database. We need high understanding level of Python language so we can make it run smoothly and it's the most important requirement <p>
 
 
 
