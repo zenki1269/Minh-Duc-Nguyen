@@ -1,9 +1,8 @@
-master2
 <!DOCTYPE html>
 <html>
 <body>
 
-<h style="color:blue;">Welcome to my Profile</h>
+<h2 style="color:blue;">Welcome to my Profile</h2>
 
 </body>
 </html>
