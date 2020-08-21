@@ -72,7 +72,7 @@ find my true passionate that I've been looking for a long time.
 
 <p>It's very important when picking teammate for a project because they will affect our outcome. So for me I'll find a teammate it takes a lot of factors and understandable between teammate in a group. Since I'm more in creative I'd like to find a logical person to work with because they're good with planning and doing the works that I'd be struggling while doing it on my own. People with logical thinking would be very helpful and also I need people to be organised so they'll finish everything before hand not until the day before deadlines. It's hard to find people that we're looking for but I believe that I could find the one that has potential to work with and make the effective outcome.
 
-<h2> Project Ideal <h2>
+<h2>Project Ideal<h2>
   <p> I've watched so many fiction movie like Iron Man, Tron and Wall-E and really I must say that I'm pretty impressed by how the A.I function. I want to create a technology where I could use A.I learning and apply it to university. This project is aabout create a A.I project that can detecting students and make sure they aren't cheating during exam because we know that now technology is so advanced now make it easier to cheat with smart watches and more. 
 
  <p> This application's main target audience that we're looking for to be collaboration with is universities in Australia for now and if it's successful we could open it in worldwide Now people know that A.I is the future and we have applied A.I to many things like vending machine, delivering or they even tried it for Uber. This project will be useful because basing on the statistics there're many students want to cheat during the exams in the university. Unfortunaly most cheated students are international students. This project could bring a big win for the university in Australia and university around the world because it will decrease the number of students cheating using smartphones and smart watches. Making the exams fair are the most important thing that the university is heading to so this application will be helpful.
@@ -88,7 +88,7 @@ find my true passionate that I've been looking for a long time.
 
 <p> To make the project come true we need those skills above combining with "Datarobot" database with face recognition will push the platform to reach their highest productivity and to achieve the best outcome we could. Datarobot is a perfect platform to store our data so we could track students if they cheat again because they will have profile in the database. We need high understanding level of Python language so we can make it run smoothly and it's the most important requirement
 
-<h2> References <h2>
+<h2>References<h2>
 <p>  1, Ideal Job
   Seek:
 12 Aug 2020, Web Developer/Systems Administrator-Castle Jackson Australia, viewed 12 August 2020 <https://www.seek.com.au/job/50382707?type=promoted#searchRequestToken=f9d5a2a7-3ac4-44a8-beac-58491caebbb1>
