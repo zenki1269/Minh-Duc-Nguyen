@@ -89,20 +89,20 @@ find my true passionate that I've been looking for a long time.
 <p> To make the project come true we need those skills above combining with "Datarobot" database with face recognition will push the platform to reach their highest productivity and to achieve the best outcome we could. Datarobot is a perfect platform to store our data so we could track students if they cheat again because they will have profile in the database. We need high understanding level of Python language so we can make it run smoothly and it's the most important requirement
 
 <h2> References <h2>
-  1, Ideal Job
+<p>  1, Ideal Job
   Seek:
 12 Aug 2020, Web Developer/Systems Administrator-Castle Jackson Australia, viewed 12 August 2020 <https://www.seek.com.au/job/50382707?type=promoted#searchRequestToken=f9d5a2a7-3ac4-44a8-beac-58491caebbb1>
   
-  2, Myer-Briggs Type Indicator(MBTI) test result:
+ <p> 2, Myer-Briggs Type Indicator(MBTI) test result:
   16Personalities n.d, Minh Duc Nguyen, viewed 18 August 2020, <https://www.16personalities.com/profiles/104ae4f23dccc> .
   
-  3. Learning style test result:
+ <p> 3. Learning style test result:
 personalitymax 2020, Minh Duc Nguyen's Personality Max Report, viewed 18 August 2020, <https://personalitymax.com/report/?pt=47-47-47-32&mi=30-37-63-93-77-67-47-73&ls=62-54-54&bh=43&name_key=5c5554b8bb> .
 
- 4, Face Recognition
+<p> 4, Face Recognition
 Peter Drahoš, 2011, viewed 15 Aug 2020, <https://www.innovatrics.com/face-recognition-solutions/>.
  
- 5, Data Robot
+<p> 5, Data Robot
 Jeremy Achin, Tom de Godoy, 2012, viewed 15 Aug 2020, <https://www.datarobot.com/platform/>.
  
 
